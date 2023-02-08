@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-    <title>Weather App</title>
+    <title>WKE Wetter App</title>
 </svelte:head>
 
 <Header />
