@@ -2,23 +2,13 @@
     <nav>
         <ul>
             <li>
-                <a
-                    target="_blank"
-                    href="https://github.com/ScriptRaccoon/sveltekit-weather/"
-                    title="GitHub repository"
-                >
-                    <i class="fa-brands fa-github" />
-                </a>
-            </li>
-            <li>
                 <a href="/" title="Home"
                     ><i class="fa-solid fa-house" /></a
                 >
             </li>
         </ul>
     </nav>
-    <h1>Weather App</h1>
-    <p>made with SvelteKit</p>
+    <h1>WKE Wetter App</h1>
 </header>
 
 <style>
