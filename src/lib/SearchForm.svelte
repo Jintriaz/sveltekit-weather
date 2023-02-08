@@ -1,6 +1,6 @@
 <form method="get" action="/search">
-    <input type="search" name="city" placeholder="City" />
-    <button type="submit">Search</button>
+    <input type="search" name="city" placeholder="Stadtname" />
+    <button type="submit">Anzeigen</button>
 </form>
 
 <style>
